@@ -1,0 +1,4 @@
+[Project]
+Name=may
+Manager=KDevCMakeManager
+VersionControl=kdevgit
